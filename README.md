@@ -34,8 +34,13 @@ During the analysis I thought it would be helpful to add a Month column using R.
 * Determining the preferred bike type per member type.   
 
 
-## Visualization
-See the Plots folder to see the visualizations
+## Visualizations   
+<img src="Plots/Avg%20Trip%20Length%20By%20Weekday.png" alt="Avg Trip Length By Weekday" width=600>   
+<img src="Plots/Number%20Of%20Trips%20By%20Month.png" alt="Number Of Trips By Month" width=600>
+<img src="Plots/Number%20Of%20Trips%20By%20Weekday.png" alt="Number Of Trips By Weekday" width=600>
+<img src="Plots/Trip%20Length%20By%20Month.png" alt="Trip Length By Month" width=600>
+<img src="Plots/Type%20Of%20Bike.png" alt="Type Of Bike" width=600>    
+
 ## Summary
 Observing the data, it becomes evident that casual users tend to engage in longer trip durations. A notable trend emerges with peak trip lengths manifesting during weekends and the warmer summer months. Notably, the total number of rides experiences a significant decline in winter, while it surges remarkably during the summer. This observation aligns with the characteristic weather patterns of Chicago, where cold winters potentially deter bike usage.   
 
